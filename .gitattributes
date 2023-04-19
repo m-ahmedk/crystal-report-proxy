@@ -8,6 +8,7 @@
 *.csproj   text eol=crlf
 *.cs linguist-language=csharp
 UserDataReports/wwwroot/* linguist-vendored
+Reporting/wwwroot/* linguist-vendored
 
 # Treat JavaScript files as binary files
 *.js binary
