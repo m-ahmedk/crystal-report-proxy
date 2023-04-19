@@ -7,3 +7,4 @@
 *.sln      text eol=crlf
 *.csproj   text eol=crlf
 *.cs linguist-language=csharp
+wwwroot/* linguist-vendored
